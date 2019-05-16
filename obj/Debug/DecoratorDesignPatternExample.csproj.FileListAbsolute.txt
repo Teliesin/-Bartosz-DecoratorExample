@@ -1,0 +1,7 @@
+c:\users\lukasz\source\repos\DecoratorDesignPatternExample\DecoratorDesignPatternExample\bin\Debug\DecoratorDesignPatternExample.exe.config
+c:\users\lukasz\source\repos\DecoratorDesignPatternExample\DecoratorDesignPatternExample\bin\Debug\DecoratorDesignPatternExample.exe
+c:\users\lukasz\source\repos\DecoratorDesignPatternExample\DecoratorDesignPatternExample\bin\Debug\DecoratorDesignPatternExample.pdb
+c:\users\lukasz\source\repos\DecoratorDesignPatternExample\DecoratorDesignPatternExample\obj\Debug\DecoratorDesignPatternExample.csprojResolveAssemblyReference.cache
+c:\users\lukasz\source\repos\DecoratorDesignPatternExample\DecoratorDesignPatternExample\obj\Debug\DecoratorDesignPatternExample.csproj.CoreCompileInputs.cache
+c:\users\lukasz\source\repos\DecoratorDesignPatternExample\DecoratorDesignPatternExample\obj\Debug\DecoratorDesignPatternExample.exe
+c:\users\lukasz\source\repos\DecoratorDesignPatternExample\DecoratorDesignPatternExample\obj\Debug\DecoratorDesignPatternExample.pdb
